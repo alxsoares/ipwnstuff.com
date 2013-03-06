@@ -1,3 +1,4 @@
+require 'redcarpet'
 require 'sinatra'
 
 get '/' do
